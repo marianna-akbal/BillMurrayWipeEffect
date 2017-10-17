@@ -1,3 +1,3 @@
 # BillMurrayWipeEffect
-# playing with wipe effect with Bill
-# html, ccs & some jQuery
+Playing with wipe effect ( with Bill Murray )
+Html, ccs & some jQuery
